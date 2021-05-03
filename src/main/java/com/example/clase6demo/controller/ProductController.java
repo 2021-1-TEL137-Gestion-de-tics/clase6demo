@@ -22,7 +22,7 @@ public class ProductController {
 
     @Autowired
     ProductRepository productRepository;
-
+    //Adivina adivinador
     @Autowired
     CategoryRepository categoryRepository;
     @Autowired
